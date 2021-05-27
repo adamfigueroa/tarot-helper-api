@@ -1,3 +1,3 @@
-INSERT INTO tarot_cards (card_name, arcana, suit, img, companion_cards, fortune_telling, keywords, light_meanings, shadow_meanings, questions_to_ask, archetype, hebrew_alphabet, numerology, element, color_associations, astrological_associations)
+INSERT INTO tarot_cards (card_name, arcana, suit, img, companion_cards, meaning, reversed_meaning, keywords, questions_to_ask, archetype, numerology, element, color_associations, astrological_associations)
 VALUES
-()
+('The Fool', 'Major Arcana', 'Trump', 'm00.jpg', '["all Major Arcana"]', "The Fool is a very powerful card in the Tarot deck, usually representing a new beginning and, consequently, an end to something in your old life. The Fool's position in your spread reveals which aspects of your life may be subject to change. The Fool portends important decisions ahead which may not be easy to make, and involve an element of risk for you. Approach the changes with optimism and care to gain the most positive outcome.", "",)
